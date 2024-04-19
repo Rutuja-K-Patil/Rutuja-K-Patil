@@ -1,7 +1,7 @@
 
 <h3 align="center">👩‍💻 Hi, I'm Rutuja Patil</h3>
 <h3 align="center">Data science and Machine Learning Enthusiast from India.</h3>
-<img src="https://img.freepik.com/premium-photo/photo-joyful-nice-woman-using-laptop-beautiful-businesswoman-typing-laptop-generative-ai_911620-17495.jpg?w=826" alt="not loading"width="400";
+<img src="https://img.freepik.com/premium-photo/photo-joyful-nice-woman-using-laptop-beautiful-businesswoman-typing-laptop-generative-ai_911620-17495.jpg?w=826" alt="not loading"width="390";
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rutuja-K-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Rutuja-K-Patil" /> </p>
 
 🔭 Exploring advanced data structures and algorithms to optimize Python apps, while diving into practical Machine Learning and Deep Learning.
