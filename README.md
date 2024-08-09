@@ -14,7 +14,7 @@
 
 📫 Reach me at rutujakeshavraopatil24@gmail.com
 
-📄 Explore my experiences:  Explore my experiences: [Resume](https://drive.google.com/file/d/1FjMJAHpj2dtoCRuQ2CIUuTngLd5bAcYd/view?usp=drive_link)
+📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1FjMJAHpj2dtoCRuQ2CIUuTngLd5bAcYd/view?usp=drive_link)
 
 
 
